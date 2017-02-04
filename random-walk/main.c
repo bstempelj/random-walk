@@ -32,7 +32,7 @@ int init()
 	}
 	else {
 		// create window
-		window = SDL_CreateWindow("SDL Tutorial",
+		window = SDL_CreateWindow("Random Walk",
 			SDL_WINDOWPOS_UNDEFINED,
 			SDL_WINDOWPOS_UNDEFINED,
 			SCREEN_WIDTH,
